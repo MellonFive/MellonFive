@@ -8,7 +8,7 @@ I have a dream of being a specialist Front End programmer, working and living in
 
 I started to become interested in programming at the university of guarulhos at the age of 20 when I entered the computer science course in 2012.
 
-However, due to personal problems, I had to start again at the age of 24 at UNIBTA and I graduated in analysis and systems development.
+However, due to personal problems, I had to start again at the age of 23 at UNIBTA and I graduated in analysis and systems development.
 
 Since then I have been struggling to get my first job as a Front-End programmer.
 
@@ -22,12 +22,14 @@ Philosophizing about life is also a habit that I put into practice during progra
 
 Obtain knowledge and practice always.
 
+"Knowledge is something that nobody can take away from us, as it is also the greatest treasure we take from this life."
+
 Never forget, we can always learn from each other.
 
 ## Would you like to find me?
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipe_mellon08_)](https://twitter.com/felipe_mellon08_)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-mell%C3%A3o-1a7a4497/)](https://www.linkedin.com/in/felipe-mell%C3%A3o-1a7a4497/)
 
-I also have a web portfolio, check it out: http://felipecastellimellao.epizy.com/index.html
+I also have a professional website, where I will put all my projects, check it out: http://felipecastellimellao.epizy.com/index.html
 
 Take care and study hard!
