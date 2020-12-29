@@ -22,7 +22,7 @@ Philosophizing about life is also a habit that I put into practice during progra
 
 Obtain knowledge and practice always.
 
-"Knowledge is something that nobody can take away from us, as it is also the greatest treasure we take from this life."
+"Knowledge is something that nobody can take away from us, as it is also the greatest treasure we take from this life." - Lucy Mari Tabuti
 
 Never forget, we can always learn from each other.
 
