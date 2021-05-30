@@ -16,21 +16,21 @@
 
 <p>In my free time I like to go to programming events, I like watching technology news, watching cooking videos, yes, I love to cook too.</p>
 
-I also love video games. I want to create a lot of games, both for the web and for consoles. I like to watch videos on the internet about personal, professional transformation and psychology.
+<p>I also love video games. I want to create a lot of games, both for the web and for consoles. I like to watch videos on the internet about personal, professional transformation and psychology.</p>
 
-Philosophizing about life is also a habit that I put into practice during programming.
+<p>Philosophizing about life is also a habit that I put into practice during programming.</p>
 
-Obtain knowledge and practice always.
+<p>Obtain knowledge and practice always.</p>
 
-Never forget, we can always learn from each other.
+<p>Never forget, we can always learn from each other.</p>
 
 ## Would you like to find me?
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipe_mellon08_)](https://twitter.com/felipe_mellon08_)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-mell%C3%A3o-1a7a4497/)](https://www.linkedin.com/in/felipe-mell%C3%A3o-1a7a4497/)
 
-I also have a professional website, where I will put all my projects, check it out: http://felipecastellimellao.epizy.com/index.html
+<p>I also have a professional website, where I will put all my projects, check it out: http://felipecastellimellao.epizy.com/index.html</p>
 
-Take care and study hard!
+<p>Take care and study hard!</p>
 
-"Knowledge is something that nobody can take away from us, as it is also the greatest treasure we take from this life." - Lucy Mari Tabuti
+## "Knowledge is something that nobody can take away from us, as it is also the greatest treasure we take from this life." - Lucy Mari Tabuti
 
