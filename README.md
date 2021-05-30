@@ -32,5 +32,5 @@
 
 <p>Take care and study hard!</p>
 
-<center>## "Knowledge is something that nobody can take away from us, as it is also the greatest treasure we take from this life." - Lucy Mari Tabuti</center>
+<center><h2>"Knowledge is something that nobody can take away from us, as it is also the greatest treasure we take from this life." - Lucy Mari Tabuti/h2></center>
 
