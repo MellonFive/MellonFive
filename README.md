@@ -1,20 +1,20 @@
 # Hello guys, nice to meet you! :D
 
-My name is Felipe Castelli Mellão and I'm 28 years old.
+<p>My name is Felipe Castelli Mellão and I'm 29 years old.</p>
 
-I live with my parents in Brazil, São Paulo, Guarulhos.
+<p>I live with my parents in Brazil, São Paulo, Guarulhos.</p>
 
-I have a dream of being a specialist Front End programmer, working and living in England in Liverpool.
+<p>I have a dream of being a specialist Front End programmer, working and living in England in Liverpool.</p>
 
-I started to become interested in programming at the university of guarulhos at the age of 20 when I entered the computer science course in 2012.
+<p>I started to become interested in programming at the university of guarulhos at the age of 20 when I entered the computer science course in 2012.</p>
 
-However, due to personal problems, I had to start again at the age of 23 at UNIBTA and I graduated in analysis and systems development.
+<p>However, due to personal problems, I had to start again at the age of 23 at UNIBTA and I graduated in analysis and systems development.</p>
 
-Since then I have been struggling to get my first job as a Front-End programmer.
+<p>Since then I have been struggling to get my first job as a Front-End programmer.</p>
 
-At home I study at collabcode which was a community made by Professor Marco Bruno to do Front-End projects.
+<p>At home I study at collabcode which was a community made by Professor Marco Bruno to do Front-End projects.</p>
 
-In my free time I like to go to programming events, I like watching technology news, watching cooking videos, yes, I love to cook too.
+<p>In my free time I like to go to programming events, I like watching technology news, watching cooking videos, yes, I love to cook too.</p>
 
 I also love video games. I want to create a lot of games, both for the web and for consoles. I like to watch videos on the internet about personal, professional transformation and psychology.
 
