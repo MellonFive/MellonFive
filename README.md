@@ -26,7 +26,7 @@
 
 ## Would you like to find me?
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipe_mellon08_)](https://twitter.com/felipe_mellon08_)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-mell%C3%A3o-1a7a4497/)](https://www.linkedin.com/in/felipe-mell%C3%A3o-1a7a4497/)[![Facebook Badge](https://www.facebook.com/felipe.castellimellao)]
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipe_mellon08_)](https://twitter.com/felipe_mellon08_)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-mell%C3%A3o-1a7a4497/)](https://www.linkedin.com/in/felipe-mell%C3%A3o-1a7a4497/)[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/felipe.castellimellao)
 
 <p>I also have a professional website, where I will put all my projects, check it out: http://felipecastellimellao.epizy.com/index.html</p>
 
