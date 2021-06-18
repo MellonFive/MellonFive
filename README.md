@@ -6,7 +6,7 @@
 
 <p>I have a dream of being a specialist Front End programmer, working and living in England in Liverpool.</p>
 
-<p>I started to become interested in programming at the university of guarulhos at the age of 20 when I entered the computer science course in 2012.</p>
+<p>I started to become interested in programming at the university of guarulhos (UNG) at the age of 20 when I entered the computer science course in 2012.</p>
 
 <p>However, due to personal problems, I had to start again at the age of 23 at UNIBTA and I graduated in analysis and systems development.</p>
 
