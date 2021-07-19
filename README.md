@@ -31,6 +31,5 @@
 <p>I also have a professional website, where I will put all my projects, check it out: http://felipecastellimellao.epizy.com/index.html</p>
 
 <p>Take care and study hard!</p>
-
-## "Knowledge is something that nobody can take away from us, as it is also the greatest treasure we take from this life." - Lucy Mari Tabuti
+<h2 align="center"> "Knowledge is something that nobody can take away from us, as it is also the greatest treasure we take from this life." - Lucy Mari Tabuti</h2>
 
