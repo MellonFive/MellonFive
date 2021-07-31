@@ -25,5 +25,5 @@
   <a href="https://www.linkedin.com/in/felipe-castelli-mell%C3%A3o-1a7a4497/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
-<h2 align="center"> "Conhecimento é algo que ninguém pode nos tirar, como também é op maior tesouro que levamos dessa vida." - Lucy Mari Tabuti</h2>
+<h2 align="center"> "Conhecimento é algo que ninguém pode nos tirar, como também é o maior tesouro que levamos dessa vida." - Lucy Mari Tabuti</h2>
 
