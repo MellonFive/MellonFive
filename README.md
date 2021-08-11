@@ -1,6 +1,6 @@
 <h2 align="center">Olá galera. Meu nome é Felipe Mellão. Prazer em conhecer vocês!  ✌</h2>
 
-- Estudante Front-End na Collabcode
+- Estudante Front-End na Collabcode(Comunidade criada pelo professor Marco Bruno. Já foi um professor da alura.)
 - Atualmente estudando CSS
 - Buscando meu primeiro emprego de Front-End no mercado de trabalho
 
