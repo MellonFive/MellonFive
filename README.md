@@ -1,4 +1,4 @@
-<h1 align="center">Olá galera. Meu nome é Felipe Mellão. Prazer em conhecer vocês!  ✌</h1>
+<h1 align="center">Olá mundo! Meu nome é Felipe Mellão. Prazer em conhecer vocês!  ✌</h1>
 
 - Estudante Front-End na Collabcode(Comunidade criada pelo professor Marco Bruno. Já foi professor da alura.)
 - Atualmente estudando HTML e CSS
