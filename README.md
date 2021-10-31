@@ -45,12 +45,6 @@
 </div>
   
   <hr>
-  
-<div align="center">
-  <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=felipe_mellon08&layout=wide&show_reply=off&show_retweet=off" />
-</div>
-  
-  <hr>
-  
+
 <h2 align="center"> "Knowledge is something that no one can take from us, it is also the greatest treasure we take from this life." - Lucy Mari Tabuti</h2>
 
