@@ -6,10 +6,10 @@
 - Seeking my first front-end job in the job market
 - [Portfólio](http://felipecastellimellao.epizy.com/?i=1)
 
-<div>
+<div align="center">
   <a href="https://github.com/mellonfive">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mellonfive&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellonfive&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mellonfive&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellonfive&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
   
   <hr>
@@ -43,6 +43,14 @@
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/-discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@felipe-mellao08" target="_blank"><img src="https://img.shields.io/badge/-medium-%230077B5?style=for-the-badge&logo=medium&logoColor=black" target="_blank"></a>
 </div>
+  
+  <hr>
+  
+<div align="center">
+  <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=felipe_mellon08&layout=wide&show_reply=off&show_retweet=off" />
+</div>
+  
+  <hr>
   
 <h2 align="center"> "Knowledge is something that no one can take from us, it is also the greatest treasure we take from this life." - Lucy Mari Tabuti</h2>
 
