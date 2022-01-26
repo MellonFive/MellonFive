@@ -1,7 +1,5 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> My name is Felipe Mellão. Nice to meet you!</h1>
 
-- Front-End Student at Collabcode(Community created by professor Marco Bruno. He was already a professor at alura.) [Collabcode on twitch](https://www.twitch.tv/marcobrunodev)
-- [Collabcode no youtube](https://www.youtube.com/c/MarcoBrunoDev)
 - Currently studying HTML and CSS
 - Seeking my first front-end job in the job market
 - [Portfólio](http://felipecastellimellao.epizy.com/?i=1)
