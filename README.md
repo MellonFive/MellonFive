@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> My name is Felipe Mellão. Nice to meet you!</h1>
 
-- Currently studying HTML and CSS
+- Currently studying HTML CSS and Programming Logic
 - Seeking my first front-end job in the job market
 - [Portfólio](http://felipecastellimellao.epizy.com/?i=1)
 
