@@ -2,7 +2,7 @@
 
 - Currently studying HTML CSS and Programming Logic
 - Seeking my first front-end job in the job market
-- [Portfólio](http://felipecastellimellao.epizy.com/?i=1)
+- Check out my portfolio! -> [Welcome](http://felipecastellimellao.epizy.com/?i=1)
 
 <div>
   <a href="https://github.com/mellonfive">
