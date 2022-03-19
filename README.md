@@ -2,7 +2,6 @@
 
 - Currently studying HTML CSS and Programming Logic
 - Seeking my first front-end job in the job market
-- You'll Never Walk Alone
 - [Portfólio](http://felipecastellimellao.epizy.com/?i=1)
 
 <div>
@@ -44,5 +43,6 @@
   
   <hr>
 
-<h2 align="center"> "Knowledge is something that no one can take from us, it is also the greatest treasure we take from this life." - Lucy Mari Tabuti</h2>
+<h2 align="center">"Knowledge is something that no one can take from us, it is also the greatest treasure we take from this life." - Lucy Mari Tabuti</h2>
 
+<h4 align="center">You'll Never Walk Alone</h4>
