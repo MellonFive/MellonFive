@@ -2,6 +2,7 @@
 
 - Currently studying HTML CSS and Programming Logic
 - Seeking my first front-end job in the job market
+- You'll Never Walk Alone
 - [Portfólio](http://felipecastellimellao.epizy.com/?i=1)
 
 <div>
