@@ -1,8 +1,9 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> My name is Felipe Mellão. Nice to meet you! :smiley: </h1>
 
-- Currently studying HTML CSS and Programming Logic :computer:
+- Currently studying HTML CSS
 - Seeking my first front-end job in the job market
 - Check out my portfolio! -> [Welcome](http://felipecastellimellao.epizy.com/?i=1)
+- My new portfolio under construction -> [Welcome](https://new-portfolio-umber-theta.vercel.app/)
 
 <div>
   <a href="https://github.com/mellonfive">
@@ -45,4 +46,4 @@
 
 <h2 align="center">"Knowledge is something that no one can take from us, it is also the greatest treasure we take from this life." - Lucy Mari Tabuti</h2>
 
-<h4 align="center">You'll Never Walk Alone</h4>
+<h3 align="center">You'll Never Walk Alone</h3>
