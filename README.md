@@ -1,9 +1,10 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> My name is Felipe Mellão. Nice to meet you! :smiley: </h1>
 
-- Currently studying HTML CSS
+- Currently studying HTML CSS at [rocketseat](https://www.rocketseat.com.br/) (Aim to get good at html and css)
+- Creating Front-End projects from the internet to practice and then start creating my own projects
 - Seeking my first front-end job in the job market
 - Check out my portfolio! -> [Welcome](http://felipecastellimellao.epizy.com/?i=1)
-- My new portfolio under construction -> [Welcome](https://new-portfolio-umber-theta.vercel.app/)
+- New portfolio under construction -> [Welcome](https://new-portfolio-umber-theta.vercel.app/)
 
 <div>
   <a href="https://github.com/mellonfive">
