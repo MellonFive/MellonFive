@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> My name is Felipe Mellão. Nice to meet you! :smiley: </h1>
 
-- Currently studying HTML and CSS at [rocketseat](https://www.rocketseat.com.br/) [Youtube Rocketseat](https://www.youtube.com/c/RocketSeat) (Aim to get very good at html and css)
+- Currently studying HTML and CSS at [Rocketseat](https://www.rocketseat.com.br/) [Youtube -> Rocketseat](https://www.youtube.com/c/RocketSeat) (Aim to get very good at html and css)
 - Youtubers I admire to start my career: [MarcoBrunoDev](https://www.youtube.com/c/MarcoBrunoDev), [birobirobiro](https://www.youtube.com/channel/UCNv7NsljvfcQ7-vKQlWDsLw)
 - My mentor: [Izabela Toledo](https://www.linkedin.com/in/izabela-toledo/)
 - Creating Front-End projects from the internet to practice and then start creating my own projects
