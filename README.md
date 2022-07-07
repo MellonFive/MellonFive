@@ -6,7 +6,7 @@
 - Creating Front-End projects from the internet to practice and then start creating my own projects
 - Seeking my first front-end job in the job market
 - Check out my portfolio! -> [Welcome](http://felipecastellimellao.epizy.com/?i=1)
-- New portfolio under construction -> [Welcome]()
+- New portfolio under construction...
 
 <div>
   <a href="https://github.com/mellonfive">
