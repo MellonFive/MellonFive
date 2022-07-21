@@ -5,8 +5,7 @@
 - My mentor: [Izabela Toledo](https://www.linkedin.com/in/izabela-toledo/)
 - Creating Front-End projects from the internet to practice and then start creating my own projects
 - Seeking my first front-end job in the job market
-- Check out my portfolio! -> [Welcome](http://felipecastellimellao.epizy.com/?i=1)
-- New portfolio under construction...
+- Check out my new portfolio! -> [Welcome](https://felipe-castelli-mellao.vercel.app/)
 
 <div>
   <a href="https://github.com/mellonfive">
