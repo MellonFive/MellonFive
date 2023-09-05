@@ -8,9 +8,12 @@
 
 <br>
 
+Have a look at these links
+
 [Business Card](https://dev-links-rose.vercel.app/)
 <br>
 Izabela Toledo -> [My Mentor](https://github.com/belatoledo)
+
 <br>
 
 ## Programmers who inspire me
