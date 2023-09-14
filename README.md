@@ -1,10 +1,12 @@
 # Welcome!!! I´m Felipe Mellão!
 
+<!--
 <div>
    <a href="https://github.com/mellonfive">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mellonfive&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellonfive&layout=compact&langs_count=6&theme=dracula"/>
 </div>
+-->
 
 <br>
 
