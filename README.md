@@ -34,6 +34,8 @@ Izabela Toledo -> [My Mentor](https://github.com/belatoledo)
 - 📚 Studying to get my first job as a Front-End programmer
 - 🤝 Ask me about HTML, CSS, JS, React and more to learn together
 
+<br>
+
 
 ## Technologies I study to get my first Front-End job
 
@@ -46,7 +48,8 @@ Izabela Toledo -> [My Mentor](https://github.com/belatoledo)
   <img align="center" alt="React" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
 </div>
- 
+
+ <br>
  <br>
 
   ![Snake animation](https://github.com/mellonfive/mellonfive/blob/output/github-contribution-grid-snake.svg)
