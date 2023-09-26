@@ -1,5 +1,4 @@
 <h1 align="center"> Hello World! I´m Felipe Mellão!</h1>
-<h2 align="center"> Let's be programmers</h2>
 
 <div>
    <a href="https://github.com/mellonfive">
