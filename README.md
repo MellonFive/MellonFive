@@ -13,7 +13,7 @@
 
 [Business Card](https://dev-links-rose.vercel.app/)
 <br>
-Izabela Toledo -> [My Mentor](https://github.com/belatoledo)
+My Mentor -> [Izabela Toledo](https://github.com/belatoledo)
 
 <br>
 
@@ -34,7 +34,7 @@ Izabela Toledo -> [My Mentor](https://github.com/belatoledo)
 - 🤝 Ask me about HTML, CSS, JS, React and more to learn together
 
 <br>
-
+<br>
 
 ## Technologies I study to get my first Front-End job
 
