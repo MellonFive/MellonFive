@@ -31,7 +31,7 @@ My Mentor -> [Izabela Toledo](https://github.com/belatoledo)
 
 - 🔥 Rookie Web Developer at [Dev Em Dobro](https://www.youtube.com/c/devemdobro) & focused on helping people start programming
 - 📚 Studying to get my first job as a Front-End programmer
-- 🤝 Ask me about HTML, CSS, JS, React and more to learn together
+- 🤝 Ask me about HTML, CSS, JS, React, design and more to learn together
 
 <br>
 <br>
