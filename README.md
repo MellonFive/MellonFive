@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World! I´m Felipe Mellão!</h1>
+<h1 align="center"> Hello World! My name is Felipe Mellão! Nice to meet you! 😃</h1>
 
 <div>
    <a href="https://github.com/mellonfive">
