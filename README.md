@@ -11,9 +11,10 @@
 
 ## Have a look at these links
 
-[Business Card](https://dev-links-rose.vercel.app/)
+[GTA V](https://projeto-gta-dev-em-dobro.vercel.app/)
 <br>
-My Mentor -> [Izabela Toledo](https://github.com/belatoledo)
+
+Take a look in my [portfolio website](https://felipe-castelli-mellao.vercel.app/)
 
 <br>
 
